@@ -1,16 +1,16 @@
 {
 	"meta": {
-		"title": "ijsKoud",
-		"page_prefix": "Daan • ",
-		"description": "16 year-old anime lover and full-stack developer from the Netherlands 🇳🇱.",
+		"title": "KyleTheDuck",
+		"page_prefix": "Kyle• ",
+		"description": "13 Year Old Bot developer that lives in the United States Of America",
 		"theme_color": "#333333"
 	},
-	"discord": "304986851310043136",
-	"github": "ijsKoud",
+	"discord": "954734383582023811",
+	"github": "KyleGamezYT",
 	"pages": {
 		"home": {
-			"name": "Daan",
-			"description": "16 year-old anime lover and full-stack developer.",
+			"name": "Kyle",
+			"description": "13 Year old who loves watching YouTube",
 			"buttons": [
 				{
 					"icon": "fa-brands fa-github",
@@ -22,50 +22,50 @@
 				},
 				{
 					"icon": "fa-solid fa-envelope",
-					"path": "mailto:daan@daangamesdg.xyz"
+					"path": "mailto:kylebsuper@gmail.com"
 				},
 				{
 					"icon": "fa-solid fa-location-arrow",
-					"title": "Haarlem, NL",
+					"title": "East Orange, NJ",
 					"path": "https://google.com/maps/place/Haarlem/"
 				}
 			]
 		},
 		"about": {
 			"about": {
-				"text": "Hey, I’m Daan. 16 year-old full-stack developer from the Netherlands. The “hacker” of the family since the age of 10 😅. I wrote my first lines of code when I was 14 and I haven’t stopped ever since. I love open-source projects, that’s why I always try to open-source as many of my projects as possible to show progammers and interested users how the code behind a certain button works.",
-				"picture": "https://avatars.githubusercontent.com/u/65551719",
-				"picture_tooltip": "Yep, that's me. Probably the only picture of me you will see in your entire life."
+				"text": "Hey, I’m  Kyle. 13 year-old Discord Bot developer from the . The “technician” of the family since the age of 9 😅. I wrote my first lines of code when I was 14 and I haven’t stopped ever since. I love open-source projects, that’s why I always try to open-source as many of my projects as possible to show progammers and interested users how the code behind a certain button works.",
+				"picture": "https://www.carid.com/images/inspiration/bmw/3-series/109/1.jpg",
+				"picture_tooltip": "Yep, Thats my favorite car, You might see this forever."
 			},
 			"cards": [
 				{
-					"title": "Bilingual Education",
+					"title": "Owner Of HyperBeats",
 					"colours": ["#6EE7B7", "#3B82F6", "#9333EA"],
 					"banner": "https://cdn.discordapp.com/attachments/835619926667821117/983347041352704070/unknown.png",
 					"description": {
-						"small": "Finished 3 year bilingual education at the Mendel College.",
-						"large": "I finished my 3 years of bilingual education at the Mendel College, part of the TTO program I follow. It consists of 3 year bilingual education, the FCE and CAE certificate exam at the end of the 4th year."
+						"small": "I finished my long time Project and now its released. ",
+						"large": "HyperBeats is a Ultimate discord music bot, with over 44 filters. It uses lavalink, the best music player ever that can support YouTube, Spotify, SoundCloud and Apple Music!"
 					},
 					"dates": {
-						"start": "3 September 2018",
-						"end": "10 July 2021"
+						"start": "July 29th, 2022",
+						"end": "Currently Avaliable."
 					}
 				},
 				{
-					"title": "Cambridge Certificate",
+					"title": "New Jersey Student Learning Assesment",
 					"colours": ["#818CF8", "#D8B4FE"],
-					"banner": "https://cdn.discordapp.com/attachments/835619926667821117/983347974925074472/unknown.png",
+					"banner": "https://edulastic.com/wp-content/uploads/2019/05/NJSLA.jpg",
 					"description": {
-						"small": "Passed the Cambridge B2 First exam.",
-						"large": "I passed the Cambridge B2 First exam with grade B. This is the second part of the TTO program I follow. The last step is to pass the CAE exam in July."
+						"small": "I Passed My NJSLA",
+						"large": "The NJSLA is a Hard Exam, but if you belive yourself, you can pass. I Passed with a 87% and I am proud."
 					},
 					"dates": {
-						"start": "13 November 2021"
+						"start": "October 21st, 2021, And May 16th, 2021"
 					}
 				}
 			],
 			"anime": {
-				"enabled": true,
+				"enabled": false,
 				"mal_username": "ijsKoud",
 				"text": "I watch anime once in a while when I am bored and don’t have anything else to do. Every episode I watch is logged on MyAnimeList and displayed here on my own website."
 			}
